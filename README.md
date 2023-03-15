@@ -28,10 +28,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Play Some Chess
+<p align="center">
+  <a href="https://www.chess.com/play/computer">
+    <img src="https://images.chesscomfiles.com/chess-themes/pieces/neo/75/wk.png" alt="Play Chess">
+  </a>
+</p>
 
- <p align="center">
-  <iframe src="https://www.chess.com/emboard?id=1234567" width="400
-                                                                </p>
+                                                                
 
 
 
