@@ -10,8 +10,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](BeastOkazaki#5598) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-a8035325b/) [![Quora] [(https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)(https://www.quora.com/profile/Beast-Okazaki)[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)(https://www.reddit.com/user/Beast_Okazaki)]
-[![Chess.com](https://img.shields.io/badge/Chess.com-44b2f6?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/BeastOkazaki)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](BeastOkazaki#5598) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-a8035325b/) 
 
 
 # 💻 Tech Stack:
@@ -30,4 +29,3 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
