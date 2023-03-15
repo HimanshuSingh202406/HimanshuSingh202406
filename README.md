@@ -2,7 +2,7 @@
  Hi, I’m Himanshu Singh!<br>👀 I’m interested in Programming & Acquiring new skills.<br>🌱 I’m currently pursuing my graduation in Computer Science and Engineering.<br>📫 How to reach me just hit me up at himanshusingh4876@gmail.com or any other socials.
  
  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=A+Passionate+Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=50F719FF&size=40&width=750&height=80&lines=A+Passionate+Developer+&+Programmer"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishic2002&label=Profile%20views&color=0e75b6&style=flat" alt="HimanshuSingh202406" /> </p>
@@ -10,7 +10,8 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](BeastOkazaki#5598) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-a8035325b/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](BeastOkazaki#5598) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-a8035325b/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Beast-Okazaki) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Beast_Okazaki) [![Chess.com](https://img.shields.io/badge/Chess.com-44b2f6?logo=chessdotcom&logoColor=white)](https://www.chess.com/BeastOkazaki)
+
 
 
 # 💻 Tech Stack:
@@ -26,6 +27,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Play Some Chess
+
+ <p align="center">
+  <iframe src="https://www.chess.com/emboard?id=1234567" width="400
+                                                                </p>
+
+
 
