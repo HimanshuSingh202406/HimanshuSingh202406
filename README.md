@@ -9,9 +9,7 @@
 
 
 
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](BeastOkazaki#5598) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-a8035325b/)  [![Chess.com](https://img.shields.io/badge/Chess.com-44b2f6?logo=chessdotcom&logoColor=white)](https://www.chess.com/BeastOkazaki)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-a8035325b/) 
 
 
 
